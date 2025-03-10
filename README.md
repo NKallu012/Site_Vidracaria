@@ -6,7 +6,7 @@ O **Site_Vidraçaria** é um projeto desenvolvido para ajudar vidraceiros a divu
 
 ### O Problema
 
-Um dos maiores desafios para os vidraceiros é o tempo gasto com orçamentos. Muitas vezes, eles precisam interromper seus serviços ou encontrar tempo fora do horário comercial para atender novos clientes que solicitam orçamentos. Isso pode ser cansativo e pouco eficiente.
+Um dos maiores desafios para os vidraceiros é o tempo gasto com orçamentos. Muitas vezes, eles precisam interromper seus serviços ou encontrar tempo fora do horário comercial para atender novos clientes que solicitam orçamentos. Isso pode ser cansativo e pouco eficiente e muitas vezes requer a contratação de um funcionário só para tal gerando gastos desnecessários.
 
 ### A Solução
 
